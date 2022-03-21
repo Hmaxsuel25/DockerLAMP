@@ -30,7 +30,7 @@ RUN apt-get install -y \
 	php7.4-json \
 	php7.4-ldap \
 	php7.4-mbstring \
-	php7.4-mcrypt \
+	#php7.4-mcrypt \
 	php7.4-mysql \
 	php7.4-odbc \
 	php7.4-opcache \
@@ -38,7 +38,7 @@ RUN apt-get install -y \
 	php7.4-phpdbg \
 	php7.4-pspell \
 	php7.4-readline \
-	php7.4-recode \
+	#php7.4-recode \
 	php7.4-snmp \
 	php7.4-sqlite3 \
 	php7.4-sybase \
